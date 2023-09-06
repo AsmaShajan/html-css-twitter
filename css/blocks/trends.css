@@ -1,0 +1,40 @@
+.trends-for-you{
+    
+    border-radius: 15px;
+    background: #f5f8fa;
+    margin-bottom: 15px;
+
+}
+
+.trends-for-u-block{
+
+    border-bottom: 1px solid #e6ecf0;
+    background: rgba(0,0,0,0.03);
+    cursor: pointer;
+   
+    
+    padding: 10px 15px;
+
+}
+
+.trends-for-u-heading{
+    font-size: 19px;
+    font-weight: bold;
+    color: #14171a;
+
+}
+
+.trends-for-u-meta-infn{
+   font-size: 13px;
+   font-weight: 300;
+   color: #657786;
+}
+
+.trends-for-u-trend-name{
+    font-size: 15px;
+    font-weight: bold;
+    color: #14171a;
+    margin-bottom: 5px;
+    margin-bottom: 2px;
+
+}

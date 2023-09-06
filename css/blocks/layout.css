@@ -1,0 +1,25 @@
+.layout{
+    display: grid;
+    grid-template-columns: 275px auto 350px;
+    margin :0 auto;
+    align-items: center;
+    max-width: 1200px ;
+}
+.layout-right-sidebar{
+    position: fixed;
+    width: 350%;
+    height: 100%;
+    z-index: 1;
+    overflow-x: hidden;
+    top: 20px;
+}
+.brand{
+    height: 28px;
+    padding: 10px;
+    top: 1px;
+    
+}
+
+.main{
+    grid-column:2;
+}
